@@ -8,4 +8,8 @@ export class AuthService {
     login(body){
         return this.authclient.send('auth.login',body);
     }
+
+    register(body){
+        return this.authclient.send('auth.register',body);
+    }
 }
