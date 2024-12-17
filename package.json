@@ -26,6 +26,7 @@
     "@nestjs/microservices": "^10.4.15",
     "@nestjs/passport": "^10.0.3",
     "@nestjs/platform-express": "^10.0.0",
+    "axios": "^1.7.9",
     "jsonwebtoken": "^9.0.2",
     "jwks-rsa": "^3.1.0",
     "keycloak-connect": "^26.0.7",
